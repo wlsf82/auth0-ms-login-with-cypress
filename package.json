@@ -1,0 +1,17 @@
+{
+  "name": "auth0-ms-login-with-cypress",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/live/stqpMMc7zkg?feature=share",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-plugin-xhr-toggle": "^1.0.0"
+  }
+}
